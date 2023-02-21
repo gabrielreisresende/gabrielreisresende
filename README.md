@@ -1,16 +1,22 @@
 ### Olá! Eu sou o Gabriel Lourenço 👋
 
-<!--
-**gabrielreisresende/gabrielreisresende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Castruu&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Castruu&layout=compact&theme=dracula">
+</div>
+🧰 Toolbox
+  <ul>
+      <li>Engenharia de Software 📚</li>
+      <li>Learning Java</li>
+  <li>Learning JS, CSS, HTML</li>
+  </ul>
+ <div>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+  </div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
