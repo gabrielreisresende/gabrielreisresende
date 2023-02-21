@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Lourenço 👋
+### Olá! Eu sou o Gabriel Lourenço👋
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gabrielreisresende&show_icons=true&theme=dracula&count_private=true">
