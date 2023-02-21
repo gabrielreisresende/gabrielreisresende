@@ -17,7 +17,6 @@
     <img height='45em' width="45" src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
     <img height='45em' width="80" src='https://cdn.worldvectorlogo.com/logos/c-1.svg'>
     <img height='45em' width="60" src='https://cdn.worldvectorlogo.com/logos/c.svg'>
-    <img height='45em' width="50" src='https://cdn.worldvectorlogo.com/logos/arduino-1.svg'>
   </div>
 
 
