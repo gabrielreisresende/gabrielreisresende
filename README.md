@@ -1,6 +1,4 @@
-### Welcome to my profile!
-
-I am a Full-Stack Developer focusing on Spring Boot (Back-End), ReactJS (Web Front-End) and React Native (Mobile Development).
+### Olá, Bem vindo ao meu perfil! Eu sou o Gabriel Lourenço
 
 
 <div>
