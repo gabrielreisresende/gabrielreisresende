@@ -8,7 +8,7 @@
   <ul>
       <li>Engenharia de Software 📚</li>
       <li>Learning Java</li>
-  <li>Learning JS, CSS, HTML</li>
+      <li>Learning JS, CSS, HTML</li>
   </ul>
  <div>
     <img height='50em' width="65" src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
