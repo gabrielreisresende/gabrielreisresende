@@ -8,11 +8,9 @@
 
 🧰 Toolbox
   <ul>
-      <li>Mobile with React Native</li>
-      <li>Front-End with ReactJS</li>
-      <li>Back-End with Spring</li>
-      <li>Database services with SQL</li>
-      <li>Minecraft plugin development with Kotlin/Java</li>
+      <li>Engenharia de Software 📚</li>
+      <li>Learning Java</li>
+      <li>Learning JS, CSS, HTML</li>
   </ul>
   <div>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
