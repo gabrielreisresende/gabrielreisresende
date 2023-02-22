@@ -1,5 +1,6 @@
-### Olá, Bem vindo ao meu perfil! Eu sou o Gabriel Lourenço
+### Olá, Bem vindo ao meu perfil! 
 
+Eu sou o Gabriel Lourenço e estudo Engenharia de Software.
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gabrielreisresende&show_icons=true&theme=dracula&count_private=true">
