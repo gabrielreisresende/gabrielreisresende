@@ -15,6 +15,7 @@ Eu sou o Gabriel Lourenço e sou estudante de Engenharia de Software.
   </ul>
   <div>
     <img height='50em' width="65" src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
+    <img height='45em' width="60" src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'>
     <img height='45em' width="60" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='45em' width="60" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='45em' width="45" src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
