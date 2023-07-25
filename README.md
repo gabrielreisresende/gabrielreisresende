@@ -6,12 +6,7 @@ Eu sou o Gabriel Lourenço e sou estudante de Engenharia de Software.
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gabrielreisresende&show_icons=true&theme=dracula&count_private=true">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=gabrielreisresende&layout=compact&theme=dracula">
 </div>
-
-🧰 Toolbox
-  <ul>
-     <li>Engenharia de Software 📚</li>
-      <li>Learning Java, Spring Boot, MySQL AND MongoDB</li>
-  </ul>
+<br>
   <div>
     <img height='50em' width="65" src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
     <img height='45em' width="60" src='https://cdn.worldvectorlogo.com/logos/spring-3.svg'>
