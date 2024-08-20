@@ -1,5 +1,4 @@
-# About Me:
-Hello, welcome to my profile! <br> 
+## Hello, welcome to my profile! <br> 
 
 My name is Gabriel, I'm a Backend Java Developer and a Software Engineering student from Brazil. 
 
