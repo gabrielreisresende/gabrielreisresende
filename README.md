@@ -1,6 +1,6 @@
 ## Hello, welcome to my profile! <br> 
 
-My name is Gabriel, I'm a Backend Java Developer and a Software Engineering student from Brazil. 
+My name is Gabriel, I'm a Software Developer from Brazil. 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=gabrielreisresende&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)
